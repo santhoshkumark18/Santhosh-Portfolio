@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Santhosh-Portfolio/static/css/main.29b20d23.css",
+    "main.js": "/Santhosh-Portfolio/static/js/main.96f5304d.js",
+    "index.html": "/Santhosh-Portfolio/index.html",
+    "main.29b20d23.css.map": "/Santhosh-Portfolio/static/css/main.29b20d23.css.map",
+    "main.96f5304d.js.map": "/Santhosh-Portfolio/static/js/main.96f5304d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29b20d23.css",
+    "static/js/main.96f5304d.js"
+  ]
+}
